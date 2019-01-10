@@ -1,0 +1,8 @@
+G:\Develop\C-Sharp-Algorithms-master\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csprojAssemblyReference.cache
+G:\Develop\C-Sharp-Algorithms-master\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csproj.CoreCompileInputs.cache
+G:\Develop\C-Sharp-Algorithms-master\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfoInputs.cache
+G:\Develop\C-Sharp-Algorithms-master\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfo.cs
+C:\Users\succe\Source\Repos\Git\Algorithms.git\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csprojAssemblyReference.cache
+C:\Users\succe\Source\Repos\Git\Algorithms.git\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\succe\Source\Repos\Git\Algorithms.git\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\succe\Source\Repos\Git\Algorithms.git\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfo.cs
