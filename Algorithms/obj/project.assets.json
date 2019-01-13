@@ -880,11 +880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\Algorithms\\Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\Algorithms\\Algorithms.csproj",
+      "projectPath": "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\Algorithms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\succe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -903,8 +903,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\DataStructures\\DataStructures.csproj": {
-              "projectPath": "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\DataStructures\\DataStructures.csproj"
+            "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\DataStructures\\DataStructures.csproj": {
+              "projectPath": "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\DataStructures\\DataStructures.csproj"
             }
           }
         }

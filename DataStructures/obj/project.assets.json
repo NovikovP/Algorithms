@@ -861,11 +861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\DataStructures\\DataStructures.csproj",
+      "projectUniqueName": "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\DataStructures\\DataStructures.csproj",
       "projectName": "DataStructures",
-      "projectPath": "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\DataStructures\\DataStructures.csproj",
+      "projectPath": "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\DataStructures\\DataStructures.csproj",
       "packagesPath": "C:\\Users\\succe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\succe\\Source\\Repos\\Git\\Algorithms.git\\DataStructures\\obj\\",
+      "outputPath": "C:\\Users\\succe\\source\\repos\\NovikovP\\Algorithms\\DataStructures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5,7 +5,7 @@ namespace Algorithms.Sorting
 {
     public static class ShellSorter
     {
-        // Сортировка Шелла
+        // Сортировка Шелла (нужна О-нотация)
 
         public static void ShellSort<T>(this IList<T> collection, Comparer<T> comparer = null)
         {
