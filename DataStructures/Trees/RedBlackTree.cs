@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using DataStructures.Common;
 
 namespace DataStructures.Trees
@@ -29,7 +28,6 @@ namespace DataStructures.Trees
             internal set { base.Root = value; }
         }
 
-
         /// <summary>
         /// CONSTRUCTOR.
         /// Allows duplicates by default.
@@ -41,7 +39,6 @@ namespace DataStructures.Trees
         /// If allowDuplictes is set to false, no duplicate items will be inserted.
         /// </summary>
         public RedBlackTree(bool allowDuplicates) : base(allowDuplicates) { }
-
 
 
         /*************************************************************************************************/
@@ -629,7 +626,5 @@ namespace DataStructures.Trees
             // Invoke the internal remove node method.
             this._remove(node);
         }
-
     }
-
 }
