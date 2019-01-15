@@ -107,7 +107,6 @@ namespace DataStructures.Dictionaries
                 //inserts the key into _table
                 Add(temp[i].key, temp[i].value);
             }
-
         }
 
         private int _double_hash(TKey key, int i)

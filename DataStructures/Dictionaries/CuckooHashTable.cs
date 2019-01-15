@@ -38,7 +38,6 @@ namespace DataStructures.Dictionaries
             }
         }
 
-
         /// <summary>
         /// INSTANCE VARIABLES
         /// </summary>
@@ -363,5 +362,4 @@ namespace DataStructures.Dictionaries
                 });
         }
     }
-
 }
