@@ -393,7 +393,5 @@ namespace DataStructures.Trees
             // which is the first potentially out-of-balance node.
             _rebalanceTreeAt(node);
         }
-
     }
-
 }
