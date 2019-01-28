@@ -265,8 +265,6 @@ namespace UnitTest.DataStructuresTests
                 && avlRoot.RightChild.LeftChild.Height == 0
                 ,
                 "Wrong heights at the leaf nodes!.");
-
         }
     }
-
 }
